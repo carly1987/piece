@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireObjectMapper (2.1.2):
+    - Alamofire (~> 3.2)
+    - ObjectMapper (~> 1.0)
+  - DrawerController (1.1.0):
+    - DrawerController/Core (= 1.1.0)
+    - DrawerController/DrawerVisualStates (= 1.1.0)
+  - DrawerController/Core (1.1.0)
+  - DrawerController/DrawerVisualStates (1.1.0):
+    - DrawerController/Core
+  - ObjectMapper (1.1.5)
+  - SnapKit (0.15.0)
+  - SwiftyJSON (2.3.2)
+  - YYText (0.9.19)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 2.1.0)
+  - DrawerController (~> 1.1.0)
+  - ObjectMapper (~> 1.1.1)
+  - SnapKit (~> 0.15.0)
+  - SwiftyJSON
+  - YYText (~> 0.9.18)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireObjectMapper: 82391c31f23e37bdb2660da174bcf81b202da39d
+  DrawerController: 8fd56e6238399a08c4af054fbea0ef8669cd81f3
+  ObjectMapper: 528b1a6677a6acac7747edd508576983e76a9148
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  YYText: b823b71b99b526c4a81029ecb59f3d8172ed5c9a
+
+PODFILE CHECKSUM: 1efeb765b185a6ee02f7ad3342d4297dfca2ca4c
+
+COCOAPODS: 1.0.1
